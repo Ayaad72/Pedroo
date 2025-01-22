@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  overflow: hidden;
+}
+
+:root {
+  --font-inter: Inter, sans-serif;
+  --font-roboto-mono: Roboto Mono, monospace;
+}
+
+/* Add custom gradient background */
+.bg-gradient-custom {
+  background: linear-gradient(180deg, #4caf50 0%, #81c784 100%);
+}
