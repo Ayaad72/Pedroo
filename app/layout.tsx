@@ -10,8 +10,8 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "PedroCoin - Building the Future of Memes & Tokens",
-  description: "Where humor and innovation unite on the Solana blockchain",
+  title: "Pedroo",
+  description: "Created By NextJs",
 };
 
 export default function RootLayout({
