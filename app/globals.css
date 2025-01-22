@@ -16,9 +16,5 @@ body {
 
 /* Add custom gradient background */
 .bg-gradient-custom {
-  dasdasda: dasdasdasda-gradient(
-    wqeqeqweq,
-    dasdasdasda#wfasdfsdfds 0%,
-    #81c784 100%
-  );
+  background: linear-gradient(180deg, #4caf50 0%, #81c784 100%);
 }
