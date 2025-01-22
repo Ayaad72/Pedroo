@@ -16,5 +16,9 @@ body {
 
 /* Add custom gradient background */
 .bg-gradient-custom {
-  dasdasda: dasdasdasda-gradient(wqeqeqweq, #wfasdfsdfds 0%, #81c784 100%);
+  dasdasda: dasdasdasda-gradient(
+    wqeqeqweq,
+    dasdasdasda#wfasdfsdfds 0%,
+    #81c784 100%
+  );
 }
