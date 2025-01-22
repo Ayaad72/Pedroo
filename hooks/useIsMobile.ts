@@ -1,4 +1,3 @@
-// hooks/useIsMobile.js
 "use client";
 import { useEffect, useState } from "react";
 
@@ -10,13 +9,10 @@ const useIsMobile = (breakpoint = 768) => {
       setIsMobile(window.innerWidth > breakpoint);
     };
 
-    // Initial check
     handleResize();
 
-    // Add event listener
     window.addEventListener("resize", handleResize);
 
-    // Cleanup event listener
     return () => window.removeEventListener("resize", handleResize);
   }, [breakpoint]);
 

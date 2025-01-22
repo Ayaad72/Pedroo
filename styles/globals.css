@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-  scroll-behavior: smooth;
-}
 :root {
   --font-inter: Inter, sans-serif;
   --font-roboto-mono: Roboto Mono, monospace;
