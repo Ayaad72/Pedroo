@@ -11,7 +11,7 @@ const manrope = Manrope({
 
 export const metadata: Metadata = {
   title: "Create Next App",
-  description: "Created  byyyyy Created Next App",
+  description: "Created  byyyyy Created Nexttt App",
 };
 
 export default function RootLayout({
