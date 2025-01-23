@@ -10,8 +10,8 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "Pedroo",
-  description: "Created By NextJs",
+  title: "Create Next App",
+  description: "Generated  By Create Next App",
 };
 
 export default function RootLayout({
