@@ -50,7 +50,8 @@ export default function Home() {
               className="banner-text text-4xl md:text-7xl font-title font-pixelify text-white mb-6"
               {...fadeInUp}
             >
-              Buiasdsad sdfdfdfsdf sdfsdfsd of dsfdsfdfsdf & adfdsfdsfs with the
+              dasdasdasda sdfdfdfsdf sdfsdfsd of dsfdsfdfsdf & adfdsfdsfs with
+              the
               {isMobile && <br />}
               <span>Awkward Look</span>
             </motion.h1>
