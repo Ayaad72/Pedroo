@@ -66,8 +66,8 @@ export function WhyPedro() {
           }
         >
           pedoro is not just dfsdfsf a asdasdass isn't just another pump.shit
-          coin. It'dasdasd dsadsad quirky, dasdas-powered token built on Solana
-          to bring memes and utility together for the long haul. 🚀🐒
+          coin. It'dasdasd dsadsad dasdasds, dasdas-powered token built on
+          Solana to bring memes and utility together for the long haul. 🚀🐒
         </p>
       </div>
 
