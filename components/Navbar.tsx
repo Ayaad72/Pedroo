@@ -26,7 +26,7 @@ export function Nav() {
   };
 
   return (
-    <nav className="nav-container right-0 z-50 flex items-center from-green-500 justify-between p-4 bg-transparent w-4/5 mx-auto pt-8">
+    <nav className="nav-container right-0  flex items-center from-green-500 justify-between p-4 bg-transparent w-4/5 mx-auto pt-8">
       <Link href="/" className="flex items-center">
         <Image
           src={logo}
